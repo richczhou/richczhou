@@ -1,6 +1,8 @@
 ### Good to see you!  ✨
 
-I'm Richard, a creative developer and interaction designer. I am passionate about challenging expectations and pushing boundaries with a combination of design, code, and a bit of hope. I love working with WebGL and XR and pushing their affordances to make new, fun, and delightful things. I'm also picking up shaders, Redshift, and Houdini. I'm studying Design and Statistics at Carnegie Mellon University. Currently looking for summer internships or part-time opportunities related to WebGL, prototyping, and XR!
+I'm Richard, a creative developer and interaction designer. I am passionate about challenging expectations and pushing boundaries with a combination of design, code, and a bit of hope. I love working with WebGL and XR and pushing their affordances to make new, fun, and delightful things. I'm also picking up shaders, Redshift, and Houdini. I'm studying Design and Statistics at Carnegie Mellon University. 
+
+Currently looking for summer internships or part-time opportunities related to WebGL, prototyping, and XR!
 
 ---
 
