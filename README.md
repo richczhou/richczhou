@@ -1,26 +1,5 @@
-### Good to see you!  ✨
+### Hey, I'm Richard! 🚜
 
-I'm Richard, a creative developer and interaction designer. I am passionate about challenging expectations and pushing boundaries with a combination of design, code, and a bit of hope. I love working with WebGL and XR and pushing their affordances to make new, fun, and delightful things. I'm also picking up shaders, Redshift, and Houdini. I'm studying Design and Statistics at Carnegie Mellon University. 
+Creative developer + frisbee enjoyer based out of Los Angeles, CA. Love procedural node spaghetti, real-time rendering, and beating my VR motion sickness. [Check out some cool shit I helped make here!](https://www.richardczhou.com/)
 
-Currently looking for summer internships or part-time opportunities related to WebGL, prototyping, and XR!
-
----
-
-Here's some more of me:
-- 💻 [Portfolio](https://www.richardczhou.com/)
-- 🐦 [Twitter](https://twitter.com/richczhou)
-
-<!--
-**richczhou/richczhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently a 3D Developer [@Active Theory](https://activetheory.net/home), previously Design + Statistics [@Carnegie Mellon](https://design.cmu.edu/).
